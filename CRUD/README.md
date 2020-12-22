@@ -245,10 +245,7 @@ Dim cmd as new SQLiteCommand
 Dim Da as new MySqlDataAdapter
 Dim cmd as new MySqlCommand
 </pre>
-<p style="text-align:justify;">El proyecto y la base de datos usada para este ejemplo los dejo en &#8220;Mega&#8221; para que lo descarguen y estudien, lo puede encontrar en el siguiente link.</p>
-<p style="text-align:center;"><a href="https://goo.gl/r18JJL" target="_blank">https://goo.gl/r18JJL</a></p>
-<p style="text-align:justify;">Les dejo también el link al post donde les explico las conexiones a diferentes bases de datos.</p>
-<p style="text-align:center;"><a href="https://aprendamosdeprogramacion.wordpress.com/2016/10/03/conexion-entre-visual-basic-net-y-access-mysql-y-sqlite/">Conexión entre Visual Basic .Net y Access, MySQL y SQLite</a></p>
+
 <p style="text-align:justify;">Cualquier duda estaré presto a colaborarles en todo lo que me este posible.</p>
 <p style="text-align:justify;">Buen día para todos.</p>
 
