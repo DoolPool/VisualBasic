@@ -1,0 +1,15 @@
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\Tutorial_Conexion.exe.config
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\Tutorial_Conexion.exe
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\Tutorial_Conexion.pdb
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\Tutorial_Conexion.xml
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.vbprojResolveAssemblyReference.cache
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.Form1.resources
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.Resources.resources
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.vbproj.GenerateResource.Cache
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.exe
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.xml
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\obj\Debug\Tutorial_Conexion.pdb
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\MySql.Data.dll
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\System.Data.SQLite.dll
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\System.Data.SQLite.pdb
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_Conexion\Tutorial_Conexion\bin\Debug\System.Data.SQLite.xml
