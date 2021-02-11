@@ -1,0 +1,23 @@
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.exe.config
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.exe
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.pdb
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.xml
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.vbprojResolveAssemblyReference.cache
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.Form1.resources
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.Resources.resources
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.vbproj.GenerateResource.Cache
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.exe
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.xml
+c:\users\egoan82\documents\visual studio 2015\Projects\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.pdb
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.exe.config
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.exe
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.pdb
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\bin\Debug\Tutorial_CRUD.xml
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.vbprojAssemblyReference.cache
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.Form1.resources
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.Resources.resources
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.vbproj.GenerateResource.cache
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.exe
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.xml
+C:\Users\DoolPool\Desktop\Tutorial_CRUD\Tutorial_CRUD\obj\Debug\Tutorial_CRUD.pdb
